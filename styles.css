@@ -178,8 +178,9 @@ body {
 }
 
 .story__image {
-  min-height: 250px;
-  border-radius: 32px;
+  width: 300px;
+  height: 300x;
+  border-radius: 0;
   background: linear-gradient(180deg, #a76cff 0%, #ff8ed4 100%);
   position: relative;
   overflow: hidden;
